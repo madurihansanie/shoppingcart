@@ -1,1 +1,2 @@
 # shoppingcart
+angular and firebase 
